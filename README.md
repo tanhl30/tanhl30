@@ -5,7 +5,7 @@ I am Hon Lim, a final year Mathematical Science & Economics student from Nanyang
 # About Me:
 💭 I'm a **data enthuasiast, a problem solver and a curious learner** <br>
 💻 I’m currently working on my **final year project: Efficiency & Fairness Tradeoff in Budget Aggregation Proposal** <br>
-🌱 I’m currently learning to **build AWS infrastructure with terraform** <br>
+🌱 I’m currently learning to **Navigate the work life while juggling my final semester workload** <br>
 ⚡ Fun fact: 
 
 
