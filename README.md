@@ -16,3 +16,17 @@ I am Hon Lim, a final year Mathematical Science & Economics student from Nanyang
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 # Past Projects
+🚀 **[Final Year Project: Budget Proposal Aggregation](https://github.com/tanhl30/FYP)**  
+🔹 Code that help me simulate and visualize Budget Proposal Aggregation while writing a math reserach paper.  
+🔹 Used **NumPy, Matplotlib, Seaborn** for simulation and visualization.  
+
+📊 **[Credit Loan Risk Prediction](https://github.com/tanhl30/Credit-Risk-Analysis)**  
+🔹 Built a predictive model for **loan default risk** using machine learning.  
+🔹 Utilized **scikit-learn** and **Statsmodels** for model training and evaluation.   
+
+🔍 **[PDF Table Extraction & Processing](https://github.com/tanhl30/PDF-parser)**  
+🔹 Parse PDF content such as table,image,text accurately for LLM models' training.  
+🔹 Implemented using **pdfplumber** & **pymupdf**, and optinally packaged as a **Docker image**.  
+
+
+
